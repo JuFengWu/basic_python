@@ -1,6 +1,13 @@
 
 print("hello world")
 
+a = "hello world"
+
+print(a[1])
+
+
+print(aaa)
+
 a = 3
 print(a)
 
