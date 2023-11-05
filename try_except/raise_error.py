@@ -13,6 +13,7 @@ except ValueError as msg:
     print(msg)
 except ZeroDivisionError as msg:
     print(msg)
-except Exception:
+except Exception as e:
     print("有錯誤")
+    print(e)
 print("continue")
