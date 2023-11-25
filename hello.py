@@ -4,7 +4,10 @@ print("hello world")
 a = "hello world"
 
 print(a[1])
+x = 5
+b = 2
 
+print(x%b)
 
 print(aaa)
 
